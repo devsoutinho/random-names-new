@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/devsoutinho/random-names-new/compare/v1.0.0...v1.1.0) (2020-08-05)
+
+
+### Features
+
+* **package.json:** Remove branch support add only multi branches ([cd8a0a0](https://github.com/devsoutinho/random-names-new/commit/cd8a0a079a57d5b86b398ba9f85d9bda985f4725))
+
 # 1.0.0 (2020-08-05)
 
 
