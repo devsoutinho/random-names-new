@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/devsoutinho/random-names-new/compare/v1.1.0...v1.2.0) (2020-08-05)
+
+
+### Features
+
+* **release workflow:** Add next branch support ([4635498](https://github.com/devsoutinho/random-names-new/commit/4635498f2e1a36f66906540121efce1192f30354))
+
 # [1.1.0](https://github.com/devsoutinho/random-names-new/compare/v1.0.0...v1.1.0) (2020-08-05)
 
 
