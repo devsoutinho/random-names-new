@@ -1,3 +1,10 @@
+# 1.0.0 (2020-08-05)
+
+
+### Features
+
+* **initial commit:** v1.0.0 on [@latest](https://github.com/latest) ([7163168](https://github.com/devsoutinho/random-names-new/commit/716316827c4d64de9c219621089cac21637677a0))
+
 # [9.1.0](https://github.com/devsoutinho/random-names/compare/v9.0.0...v9.1.0) (2020-08-05)
 
 
