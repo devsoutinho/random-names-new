@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/devsoutinho/random-names-new/compare/v1.2.0...v1.3.0) (2020-08-05)
+
+
+### Features
+
+* **docs:** updating our docs ([b63b2b1](https://github.com/devsoutinho/random-names-new/commit/b63b2b1bfd8c5ee43c4bb6f0edfd1004ad81a0b3))
+* **readme:** Add new lines ([295baaf](https://github.com/devsoutinho/random-names-new/commit/295baafe17a8e8576dfd482e879c3ee0d6c75129))
+
 # [1.2.0](https://github.com/devsoutinho/random-names-new/compare/v1.1.0...v1.2.0) (2020-08-05)
 
 
