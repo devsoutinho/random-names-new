@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/devsoutinho/random-names-new/compare/v1.2.0...v2.0.0) (2020-08-06)
+
+
+### Features
+
+* **adjust workflow:** adjusting workflow to be more cool ([10afe8e](https://github.com/devsoutinho/random-names-new/commit/10afe8ef2dee4ca095fd601b176f17bec09a61ca))
+* **readme-new-docs:** add more docs ([99a894b](https://github.com/devsoutinho/random-names-new/commit/99a894bec8d1fab2ef2e72aa87ec0a7f2ad568c0))
+
+
+### BREAKING CHANGES
+
+* **readme-new-docs:** LOCURA MEU
+
 # [1.2.0](https://github.com/devsoutinho/random-names-new/compare/v1.1.0...v1.2.0) (2020-08-05)
 
 
