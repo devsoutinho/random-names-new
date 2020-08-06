@@ -20,6 +20,7 @@ jobs:
       - name: Release
         env:
           GIT_AUTHOR_NAME: "@bumper-bot"
+          GIT_COMMITTER_NAME: "@bumper-bot"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
