@@ -19,8 +19,8 @@ jobs:
         run: yarn install
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKENS }}
+          NPM_TOKEN: ${{ secrets.GH_TOKENS }}
         run: |
           export GIT_AUTHOR_NAME="Mario Souto"
           export GIT_AUTHOR_EMAIL="soutomarios@gmail.com"
