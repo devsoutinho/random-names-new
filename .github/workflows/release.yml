@@ -16,7 +16,9 @@ jobs:
         with:
           node-version: 12
       - name: Install dependencies
-        run: yarn install
+        run: | 
+          printenv
+          yarn install
       - name: Release
         env:
           GIT_AUTHOR_NAME: "Mario Souto"
