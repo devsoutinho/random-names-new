@@ -21,10 +21,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          run: |
-            export GIT_AUTHOR_NAME="Mario Souto"
-            export GIT_AUTHOR_EMAIL="soutomarios@gmail.com"
-            export GIT_COMMITTER_NAME="Mario Souto"
-            export GIT_COMMITTER_EMAIL="soutomarios@gmail.com"
-            printenv
-            npx semantic-release
+        run: |
+          export GIT_AUTHOR_NAME="Mario Souto"
+          export GIT_AUTHOR_EMAIL="soutomarios@gmail.com"
+          export GIT_COMMITTER_NAME="Mario Souto"
+          export GIT_COMMITTER_EMAIL="soutomarios@gmail.com"
+          printenv
+          npx semantic-release
