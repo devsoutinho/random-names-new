@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/devsoutinho/random-names-new/compare/v2.0.0...v2.1.0) (2020-08-06)
+
+
+### Features
+
+* **docs:** docs new ([4931edb](https://github.com/devsoutinho/random-names-new/commit/4931edb0cee1e44b5663ee9031bd925da6fb17c4))
+
 # [2.0.0](https://github.com/devsoutinho/random-names-new/compare/v1.2.0...v2.0.0) (2020-08-06)
 
 
