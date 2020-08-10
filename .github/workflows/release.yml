@@ -22,5 +22,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKENS }}
           NPM_TOKEN: ${{ secrets.GH_TOKENS }}
         run: |
-          printenv
           npx semantic-release
