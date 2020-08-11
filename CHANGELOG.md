@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/devsoutinho/random-names-new/compare/v2.14.0...v3.0.0) (2020-08-11)
+
+
+### Features
+
+* **increase docs:** Add new line about xuxu ([4fc0ef1](https://github.com/devsoutinho/random-names-new/commit/4fc0ef1a3148f3afb348e5b7cde16ff93849da1c))
+
+
+### BREAKING CHANGES
+
+* **increase docs:** Breaks compabiliblithu bla bla
+
 # [2.14.0](https://github.com/devsoutinho/random-names-new/compare/v2.13.0...v2.14.0) (2020-08-11)
 
 
