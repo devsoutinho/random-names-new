@@ -1,3 +1,10 @@
+# [2.13.0](https://github.com/devsoutinho/random-names-new/compare/v2.12.0...v2.13.0) (2020-08-11)
+
+
+### Features
+
+* **emilios7:** add new emilio 13 ([886ed6c](https://github.com/devsoutinho/random-names-new/commit/886ed6c0ff41328a53781630034ef3ec21ce603c))
+
 # [2.12.0](https://github.com/devsoutinho/random-names-new/compare/v2.11.0...v2.12.0) (2020-08-11)
 
 
