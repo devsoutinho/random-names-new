@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/devsoutinho/random-names-new/compare/v2.7.0...v2.8.0) (2020-08-11)
+
+
+### Features
+
+* **emilios7:** add new emilio 8 ([bc4db7f](https://github.com/devsoutinho/random-names-new/commit/bc4db7f2b453681d7478d52ce55974aad4454dc8))
+
 # [2.7.0](https://github.com/devsoutinho/random-names-new/compare/v2.6.0...v2.7.0) (2020-08-11)
 
 
